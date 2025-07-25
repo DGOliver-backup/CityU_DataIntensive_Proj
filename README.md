@@ -1,6 +1,6 @@
 # Data-Intensive Computing Course Project: The Guardian News Article Analysis with Parallel Computing (TWAN Tsz Yin 57149200)
 This repository contains the course project work for analyzing a large dataset of news articles from The Guardian, spanning 2020 to 2024, using parallel computing and data processing techniques. The project demonstrates the application of scalable frameworks and natural language processing (NLP) to extract insights and trends from large-scale text data.
-Please refer to The_Guardian_ News_Article_Analysis_with Parallel_Computing.pdf for a detailed project report.
+Please refer to "The Guardian News Article Analysis with Parallel Computing.pdf" for a detailed project report.
 
 ## Highlights
 - **Parallel Data Fetching**: Utilizes parallel computing to efficiently retrieve large volumes of news article data.
